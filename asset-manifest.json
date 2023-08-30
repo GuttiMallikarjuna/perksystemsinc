@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/GuttiMallikarjuna/perksystemsinc/static/css/main.fabd577d.css",
-    "main.js": "/GuttiMallikarjuna/perksystemsinc/static/js/main.688881d2.js",
-    "static/js/787.87e7380a.chunk.js": "/GuttiMallikarjuna/perksystemsinc/static/js/787.87e7380a.chunk.js",
-    "static/media/back2.jpg": "/GuttiMallikarjuna/perksystemsinc/static/media/back2.667d866af63f2f6f102b.jpg",
-    "static/media/shakehand.jpg": "/GuttiMallikarjuna/perksystemsinc/static/media/shakehand.7b84e1aee9ed4900d04b.jpg",
-    "static/media/computer.jpg": "/GuttiMallikarjuna/perksystemsinc/static/media/computer.31d15d83c365fadbf839.jpg",
-    "static/media/clients.jpg": "/GuttiMallikarjuna/perksystemsinc/static/media/clients.b97776549d5319f381da.jpg",
-    "static/media/perksysinc.jpg": "/GuttiMallikarjuna/perksystemsinc/static/media/perksysinc.a15a10485ab2cd1e8b59.jpg",
-    "static/media/our-approach.jpg": "/GuttiMallikarjuna/perksystemsinc/static/media/our-approach.03e6d164ad39b9cde04d.jpg",
-    "static/media/servicefinal.jpg": "/GuttiMallikarjuna/perksystemsinc/static/media/servicefinal.cab99857bb45703267a7.jpg",
-    "static/media/contact.jpg": "/GuttiMallikarjuna/perksystemsinc/static/media/contact.199f47ed0b077bc018e7.jpg",
-    "static/media/aboutus12.jpg": "/GuttiMallikarjuna/perksystemsinc/static/media/aboutus12.51118ed0217c8d64bf02.jpg",
-    "static/media/services-300x199.jpg": "/GuttiMallikarjuna/perksystemsinc/static/media/services-300x199.4ce8c04e574dfdcb4bc8.jpg",
-    "static/media/login1.jpg": "/GuttiMallikarjuna/perksystemsinc/static/media/login1.a8777186384be9787b5b.jpg",
-    "index.html": "/GuttiMallikarjuna/perksystemsinc/index.html",
-    "main.fabd577d.css.map": "/GuttiMallikarjuna/perksystemsinc/static/css/main.fabd577d.css.map",
-    "main.688881d2.js.map": "/GuttiMallikarjuna/perksystemsinc/static/js/main.688881d2.js.map",
-    "787.87e7380a.chunk.js.map": "/GuttiMallikarjuna/perksystemsinc/static/js/787.87e7380a.chunk.js.map"
+    "main.css": "/GuttiMallikarjuna.github/perksystemsinc/static/css/main.fabd577d.css",
+    "main.js": "/GuttiMallikarjuna.github/perksystemsinc/static/js/main.c662123e.js",
+    "static/js/787.87e7380a.chunk.js": "/GuttiMallikarjuna.github/perksystemsinc/static/js/787.87e7380a.chunk.js",
+    "static/media/back2.jpg": "/GuttiMallikarjuna.github/perksystemsinc/static/media/back2.667d866af63f2f6f102b.jpg",
+    "static/media/shakehand.jpg": "/GuttiMallikarjuna.github/perksystemsinc/static/media/shakehand.7b84e1aee9ed4900d04b.jpg",
+    "static/media/computer.jpg": "/GuttiMallikarjuna.github/perksystemsinc/static/media/computer.31d15d83c365fadbf839.jpg",
+    "static/media/clients.jpg": "/GuttiMallikarjuna.github/perksystemsinc/static/media/clients.b97776549d5319f381da.jpg",
+    "static/media/perksysinc.jpg": "/GuttiMallikarjuna.github/perksystemsinc/static/media/perksysinc.a15a10485ab2cd1e8b59.jpg",
+    "static/media/our-approach.jpg": "/GuttiMallikarjuna.github/perksystemsinc/static/media/our-approach.03e6d164ad39b9cde04d.jpg",
+    "static/media/servicefinal.jpg": "/GuttiMallikarjuna.github/perksystemsinc/static/media/servicefinal.cab99857bb45703267a7.jpg",
+    "static/media/contact.jpg": "/GuttiMallikarjuna.github/perksystemsinc/static/media/contact.199f47ed0b077bc018e7.jpg",
+    "static/media/aboutus12.jpg": "/GuttiMallikarjuna.github/perksystemsinc/static/media/aboutus12.51118ed0217c8d64bf02.jpg",
+    "static/media/services-300x199.jpg": "/GuttiMallikarjuna.github/perksystemsinc/static/media/services-300x199.4ce8c04e574dfdcb4bc8.jpg",
+    "static/media/login1.jpg": "/GuttiMallikarjuna.github/perksystemsinc/static/media/login1.a8777186384be9787b5b.jpg",
+    "index.html": "/GuttiMallikarjuna.github/perksystemsinc/index.html",
+    "main.fabd577d.css.map": "/GuttiMallikarjuna.github/perksystemsinc/static/css/main.fabd577d.css.map",
+    "main.c662123e.js.map": "/GuttiMallikarjuna.github/perksystemsinc/static/js/main.c662123e.js.map",
+    "787.87e7380a.chunk.js.map": "/GuttiMallikarjuna.github/perksystemsinc/static/js/787.87e7380a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fabd577d.css",
-    "static/js/main.688881d2.js"
+    "static/js/main.c662123e.js"
   ]
 }
