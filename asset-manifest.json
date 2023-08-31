@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/perksystemsinc/static/css/main.b1579071.css",
-    "main.js": "/perksystemsinc/static/js/main.5ddcec99.js",
+    "main.css": "/perksystemsinc/static/css/main.3311566b.css",
+    "main.js": "/perksystemsinc/static/js/main.46e820a3.js",
     "static/js/787.87e7380a.chunk.js": "/perksystemsinc/static/js/787.87e7380a.chunk.js",
     "static/media/back2.jpg": "/perksystemsinc/static/media/back2.667d866af63f2f6f102b.jpg",
     "static/media/shakehand.jpg": "/perksystemsinc/static/media/shakehand.7b84e1aee9ed4900d04b.jpg",
@@ -15,12 +15,12 @@
     "static/media/services-300x199.jpg": "/perksystemsinc/static/media/services-300x199.4ce8c04e574dfdcb4bc8.jpg",
     "static/media/login1.jpg": "/perksystemsinc/static/media/login1.a8777186384be9787b5b.jpg",
     "index.html": "/perksystemsinc/index.html",
-    "main.b1579071.css.map": "/perksystemsinc/static/css/main.b1579071.css.map",
-    "main.5ddcec99.js.map": "/perksystemsinc/static/js/main.5ddcec99.js.map",
+    "main.3311566b.css.map": "/perksystemsinc/static/css/main.3311566b.css.map",
+    "main.46e820a3.js.map": "/perksystemsinc/static/js/main.46e820a3.js.map",
     "787.87e7380a.chunk.js.map": "/perksystemsinc/static/js/787.87e7380a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1579071.css",
-    "static/js/main.5ddcec99.js"
+    "static/css/main.3311566b.css",
+    "static/js/main.46e820a3.js"
   ]
 }
